@@ -1,1 +1,1 @@
-sudo mv [A-Z]* /tmp/u/
+sudo mv src/[A-Z]* /tmp/u/
