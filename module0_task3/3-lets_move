@@ -1,1 +1,2 @@
-sudo mv [A-Z]* /tmp/u/
+sudo mv Holberton /tmp/u/Holberton
+sudo mv School /tmp/u/School
